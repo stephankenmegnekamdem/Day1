@@ -1,0 +1,6 @@
+print("84<42 = ",84<42)
+print("result of: [0 == -(-0]) is ", 0 == -(-0))
+print("result of: [666!=42]",666!=42)
+print("result of: [2 ** 21]",2 ** 21)
+print("result of: [pow(10,3)]",pow(10,3))
+print("result of: [9%2]",9%2) 
