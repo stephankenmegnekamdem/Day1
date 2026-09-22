@@ -4,3 +4,5 @@ num=num//1
 num1=num1//1
 num=int(num)
 num1=int(num1)
+print(num)
+print(num1)

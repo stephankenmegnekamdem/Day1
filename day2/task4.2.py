@@ -9,3 +9,5 @@ while n>=0:
 pi=3+1/d
 
 print(f"{pi:.6f}")
+print(f"{pi:.6}")
+print(f"{pi:.7}")

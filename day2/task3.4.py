@@ -1,8 +1,6 @@
 num=12.24
 num1=424242.8412
-num = num%1
-num1= num1%1
-num=int(num/0.01)
-num1=int(num1/0.0001)
-print (num)
-print(num1)
+ans=str(num).split('.')[1]
+ans1=str(num1).split('.')[1]
+print (ans)
+print(ans1)
